@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="addphoto">Add Photo</string>
+    <string name="enter_message">enter message</string>
+    <string name="save">save</string>
+    <string name="imagen">imagen</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+</resources>
